@@ -1,219 +1,176 @@
 .pio/build/ESP-LCD/src/app.cpp.o: src/app.cpp \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Arduino.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp_arduino_version.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/FreeRTOS.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/esp_additions/freertos/FreeRTOSConfig.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_common/include/esp_compiler.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/port/xtensa/include/freertos/FreeRTOSConfig_arch.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/port/xtensa/include/freertos/xtensa_config.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xtensa/hal.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/esp32s3/include/xtensa/config/core.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xtensa/xtensa-versions.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/esp32s3/include/xtensa/config/core-isa.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/esp32s3/include/xtensa/config/core-matmap.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/esp32s3/include/xtensa/config/tie.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/esp32s3/include/xtensa/config/system.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/port/xtensa/include/freertos/xtensa_context.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xtensa/xtensa_context.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xtensa/corebits.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xtensa/xtruntime-frames.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_rom/include/esp_rom_sys.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/reset_reasons.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_rom/include/esp32s3/rom/ets_sys.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/soc.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_common/include/esp_assert.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_common/include/esp_bit_defs.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/projdefs.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/portable.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/deprecated_definitions.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/port/xtensa/include/freertos/portmacro.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xtensa/xtruntime.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/esp32s3/include/xtensa/config/specreg.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xtensa/xtruntime-core-state.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xt_instr_macros.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xtensa/xtruntime.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/soc/spinlock.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/soc/cpu.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/esp_cpu.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/cpu_hal.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_common/include/esp_err.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_common/include/esp_compiler.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/soc_caps.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/brownout_caps.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/cpu_caps.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/i2c_caps.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/ledc_caps.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/mpu_caps.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/twai_caps.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/uart_caps.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/cpu_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/esp32s3/include/hal/cpu_ll.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/esp32s3/include/xtensa/config/extreg.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/soc/compare_set.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/include/soc/soc_memory_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_system/include/esp_private/crosscore_int.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_timer/include/esp_timer.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/newlib/platform_include/esp_newlib.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/heap/include/esp_heap_caps.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/heap/include/multi_heap.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_system/include/esp_system.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_common/include/esp_idf_version.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/esp_mac.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/esp_chip_info.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/esp_random.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/port/xtensa/include/freertos/portbenchmark.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xtensa/xtensa_api.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/xtensa/include/xtensa/xtensa_context.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/port/xtensa/include/freertos/portmacro_deprecated.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/mpu_wrappers.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/task.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/list.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/esp_additions/freertos/task_snapshot.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/semphr.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/queue.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/task.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/esp_sleep.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/touch_sensor_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/gpio_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/include/soc/gpio_periph.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/io_mux_reg.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/gpio_struct.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/gpio_reg.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/gpio_sig_map.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/queue.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/event_groups.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/freertos/timers.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-log.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/log/include/esp_log.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/log/include/esp_log_internal.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-matrix.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-uart.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-gpio.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/variants/esp32s3/pins_arduino.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-touch.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-dac.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/driver/include/driver/gpio.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/esp_intr_alloc.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_common/include/esp_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_rom/include/esp32s3/rom/gpio.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-adc.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-spi.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-i2c.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-ledc.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-rmt.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-sigmadelta.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-timer.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-bt.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-psram.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-rgb-led.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-cpu.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp8266-compat.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/stdlib_noniso.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/binary.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/WCharacter.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/WString.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/pgmspace.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Stream.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Print.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Printable.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/IPAddress.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/WString.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Printable.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Client.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Server.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Udp.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Stream.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/IPAddress.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/HardwareSerial.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/HWCDC.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_event/include/esp_event.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_event/include/esp_event_base.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_event/include/esp_event_legacy.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_wifi/include/esp_wifi_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_wifi/include/esp_private/esp_wifi_types_private.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/esp_interface.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_event/include/esp_event_base.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_netif/include/esp_netif.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_netif/include/esp_netif_ip_addr.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_netif/include/esp_netif_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_netif/include/esp_netif_defaults.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_eth/include/esp_eth_netif_glue.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_eth/include/esp_eth.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_eth/include/esp_eth_com.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/eth_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_eth/include/esp_eth_mac.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_eth/include/esp_eth_phy.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/tcpip_adapter/include/tcpip_adapter.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/tcpip_adapter/include/tcpip_adapter_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/lwip/src/include/lwip/ip_addr.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/lwip/src/include/lwip/opt.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/port/esp32/include/lwipopts.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/newlib/platform_include/sys/ioctl.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_system/include/esp_task.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/freertos/include/esp_additions/freertos/FreeRTOSConfig.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/port/esp32/include/netif/dhcp_state.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/port/esp32/include/sntp/sntp_get_set_time.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/lwip/src/include/lwip/debug.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/lwip/src/include/lwip/arch.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/port/esp32/include/arch/cc.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/port/esp32/include/arch/sys_arch.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/port/esp32/include/arch/vfs_lwip.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/lwip/src/include/lwip/def.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/lwip/src/include/lwip/ip4_addr.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/lwip/src/include/lwip/ip6_addr.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/lwip/src/include/lwip/def.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/lwip/src/include/lwip/ip6_zone.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/lwip/include/apps/dhcpserver/dhcpserver.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_netif/include/esp_netif_sta_list.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Esp.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/spi_flash/include/esp_partition.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/spi_flash/include/esp_flash.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/spi_flash_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/esp_flash_err.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/spi_flash/include/esp_spi_flash.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/spi_flash/include/esp_spi_flash_counters.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_hw_support/include/soc/esp32/spiram.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Arduino.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp_arduino_version.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/FreeRTOS.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/esp_additions/include/freertos/FreeRTOSConfig.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/esp_additions/arch/xtensa/include/freertos/FreeRTOSConfig_arch.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/xtensa_config.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xtensa/hal.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/esp32s3/include/xtensa/config/core.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xtensa/xtensa-versions.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/esp32s3/include/xtensa/config/core-isa.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/esp32s3/include/xtensa/config/core-matmap.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/esp32s3/include/xtensa/config/tie.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/esp32s3/include/xtensa/config/system.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/xtensa_context.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xtensa/xtensa_context.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xtensa/corebits.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xtensa/xtruntime-frames.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/projdefs.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/portable.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/deprecated_definitions.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xtensa/xtruntime.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/esp32s3/include/xtensa/config/specreg.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xtensa/xtruntime-core-state.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xt_instr_macros.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xtensa/xtruntime.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/spinlock.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/esp_cpu.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/soc_caps.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/mpu_caps.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xtensa/xtensa_api.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xtensa/xtensa_context.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/include/xt_utils.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/xtensa/esp32s3/include/xtensa/config/extreg.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_bit_defs.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_attr.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/esp_intr_alloc.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_err.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_compiler.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_system/include/esp_private/crosscore_int.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_macros.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_assert.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/esp_memory_utils.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/soc.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_assert.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/reg_base.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/newlib/platform_include/esp_newlib.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/heap/include/esp_heap_caps.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/heap/include/multi_heap.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_rom/include/esp_rom_sys.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/reset_reasons.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_system/include/esp_system.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_idf_version.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portbenchmark.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/mpu_wrappers.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/task.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/list.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/semphr.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/queue.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/task.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/esp_sleep.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/touch_sensor_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/gpio_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/queue.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/event_groups.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/freertos/FreeRTOS-Kernel/include/freertos/timers.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-log.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_timer/include/esp_timer.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/esp_etm.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/log/include/esp_log.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/log/include/esp_log_internal.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-matrix.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/gpio_sig_map.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-uart.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/uart_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/clk_tree_defs.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-gpio.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/variants/esp32s3/pins_arduino.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-touch.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-dac.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-adc.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-spi.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-i2c.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-ledc.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-rmt.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-sigmadelta.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-timer.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/gptimer/include/driver/gptimer_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/timer_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-bt.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-psram.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-rgb-led.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp32-hal-cpu.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/esp8266-compat.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/gpio_reg.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/stdlib_noniso.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/binary.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/extra_attr.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/WCharacter.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/WString.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/pgmspace.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Stream.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Print.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Printable.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/IPAddress.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/lwip/src/include/lwip/ip_addr.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/lwip/src/include/lwip/opt.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/port/include/lwipopts.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/newlib/platform_include/sys/ioctl.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/newlib/platform_include/sys/poll.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_system/include/esp_task.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/esp_random.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/port/include/sntp/sntp_get_set_time.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/port/include/sockets_ext.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/port/freertos/include/arch/sys_arch.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/lwip/src/include/lwip/debug.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/lwip/src/include/lwip/arch.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/port/esp32xx/include/arch/cc.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/newlib/platform_include/errno.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/lwip/src/include/lwip/def.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/lwip/src/include/lwip/ip4_addr.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/lwip/src/include/lwip/ip6_addr.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/lwip/src/include/lwip/def.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/lwip/lwip/src/include/lwip/ip6_zone.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_netif/include/esp_netif_ip_addr.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Client.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Server.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Udp.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Stream.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/HardwareSerial.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/HWCDC.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_event/include/esp_event.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_event/include/esp_event_base.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/usb_serial_jtag/include/driver/usb_serial_jtag.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/USBCDC.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Esp.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_partition/include/esp_partition.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/hal/cpu_hal.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/hal/cpu_ll.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/io_pin_remap.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/cores/esp32/Arduino.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/ESP_Panel_Library.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/ESP_Panel_Conf_Internal.h \
  src/ESP_Panel_Conf.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/ESP_Panel_Board_Internal.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/ESP_PanelTypes.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_lcd/include/esp_lcd_panel_rgb.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_lcd/include/esp_lcd_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/lcd_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_lcd/include/esp_lcd_panel_rgb.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_lcd/include/esp_lcd_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/lcd_types.h \
  src/ESP_Panel_Board_Supported.h src/ESP_Panel_Board_Custom.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/board/ESP_PanelBoard.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/board/espressif/ESP32_S3_LCD_EV_BOARD_2_V1_5.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/i2c_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/i2c_types.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/ESP_PanelLog.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_common/include/esp_check.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_check.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/ESP_PanelVersions.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/host/ESP_PanelHost.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/driver/include/driver/i2c.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_ringbuf/include/freertos/ringbuf.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/driver/include/driver/spi_master.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/driver/include/driver/spi_common.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/include/soc/lldesc.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_rom/include/esp32s3/rom/lldesc.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/include/soc/spi_periph.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/periph_defs.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/soc_pins.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/usb_pins.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/gpio_pins.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/spi_pins.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/sdio_slave_pins.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/sdmmc_pins.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/touch_sensor_pins.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/spi_reg.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/spi_struct.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/spi_mem_struct.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/spi_mem_reg.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/spi_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/i2c/include/driver/i2c.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/gpio/include/driver/gpio.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_rom/include/esp_rom_gpio.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/gpio_pins.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/gpio/include/driver/gpio_etm.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/spi/include/driver/spi_master.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/spi_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/spi/include/driver/spi_common.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_system/include/esp_ipc.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_hw_support/include/intr_types.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/bus/ESP_PanelBus.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/bus/I2C.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_lcd/include/esp_lcd_panel_io.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_lcd/include/esp_lcd_panel_io.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/bus/SPI.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/bus/RGB.h \
  .pio/libdeps/ESP-LCD/ESP32_IO_Expander/src/ESP_IOExpander.h \
@@ -221,8 +178,8 @@
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/bus/base/esp_lcd_panel_io_additions.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/bus/QSPI.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/lcd/ESP_PanelLcd.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_lcd/include/esp_lcd_panel_ops.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/esp_lcd/include/esp_lcd_panel_vendor.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_lcd/include/esp_lcd_panel_ops.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_lcd/include/esp_lcd_panel_vendor.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/lcd/base/esp_lcd_custom_types.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/lcd/EK9716B.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/lcd/GC9503.h \
@@ -265,9 +222,8 @@
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/touch/XPT2046.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/touch/base/esp_lcd_touch_xpt2046.h \
  .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/backlight/ESP_PanelBacklight.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/driver/include/driver/ledc.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/hal/include/hal/ledc_types.h \
- C:/Users/Ifou/.platformio/packages/framework-arduinoespressif32@src-537c58760dafe7fcc8a1d9bbcf00b6f6/tools/sdk/esp32s3/include/driver/include/driver/periph_ctrl.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/driver/ledc/include/driver/ledc.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/ledc_types.h \
  .pio/libdeps/ESP-LCD/ESP32_IO_Expander/src/ESP_IOExpander_Library.h \
  .pio/libdeps/ESP-LCD/ESP32_IO_Expander/src/ESP_IOExpander.h \
  .pio/libdeps/ESP-LCD/ESP32_IO_Expander/src/chip/TCA95xx_8bit.h \
@@ -280,7 +236,6 @@
  .pio/libdeps/ESP-LCD/lvgl/src/misc/lv_log.h \
  .pio/libdeps/ESP-LCD/lvgl/src/misc/../lv_conf_internal.h \
  .pio/libdeps/ESP-LCD/lvgl/src/misc/../lv_conf_kconfig.h \
- .pio/libdeps/ESP-LCD/lvgl/lv_conf.h \
  .pio/libdeps/ESP-LCD/lvgl/src/misc/lv_types.h \
  .pio/libdeps/ESP-LCD/lvgl/src/misc/lv_timer.h \
  .pio/libdeps/ESP-LCD/lvgl/src/misc/../hal/lv_hal_tick.h \
@@ -298,10 +253,10 @@
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../lv_conf_internal.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../misc/lv_style.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../misc/../font/lv_font.h \
- .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../misc/../font/../lv_conf_internal.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lv_conf_internal.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../misc/../font/lv_symbol_def.h \
- .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../misc/../font/../misc/lv_area.h \
- .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../misc/../font/../misc/../lv_conf_internal.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\misc\lv_area.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lv_conf_internal.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../misc/lv_color.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../misc/../lv_conf_internal.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../misc/lv_assert.h \
@@ -329,7 +284,7 @@
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/sw/../../misc/lv_style.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/sw/lv_draw_sw_dither.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/sw/../../core/lv_obj_pos.h \
- .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/sw/../../core/../misc/lv_area.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\misc\lv_area.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/lv_draw_label.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/../misc/lv_bidi.h \
  .pio/libdeps/ESP-LCD/lvgl/src/hal/../draw/lv_draw_img.h \
@@ -416,9 +371,9 @@
  .pio/libdeps/ESP-LCD/lvgl/src/extra/lv_extra.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/layouts/lv_layouts.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/layouts/flex/lv_flex.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/layouts/flex/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/layouts/grid/lv_grid.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/layouts/grid/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/lv_libs.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/bmp/lv_bmp.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/bmp/../../../lv_conf_internal.h \
@@ -428,78 +383,78 @@
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/png/../../../lv_conf_internal.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/gif/lv_gif.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/gif/../../../lvgl.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/gif/../../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/qrcode/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/freetype/lv_freetype.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/freetype/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/rlottie/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/ffmpeg/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/libs/tiny_ttf/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/others/lv_others.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/others/snapshot/lv_snapshot.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/others/snapshot/../../../lv_conf_internal.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/others/snapshot/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lv_conf_internal.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/others/monkey/lv_monkey.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/others/monkey/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/others/gridnav/lv_gridnav.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/others/gridnav/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/others/fragment/lv_fragment.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/others/fragment/../../../lv_conf_internal.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lv_conf_internal.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/others/imgfont/lv_imgfont.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/others/imgfont/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/others/msg/lv_msg.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/others/msg/../../../core/lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/others/ime/../../../lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/themes/lv_themes.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/themes/default/lv_theme_default.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/themes/default/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/themes/mono/lv_theme_mono.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/themes/mono/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/themes/basic/lv_theme_basic.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/themes/basic/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/lv_widgets.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/animimg/lv_animimg.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/animimg/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/calendar/lv_calendar.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/calendar/../../../widgets/lv_btnmatrix.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\widgets\lv_btnmatrix.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/calendar/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/chart/lv_chart.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/chart/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/keyboard/../../../widgets/lv_btnmatrix.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\widgets\lv_btnmatrix.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/list/lv_list.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/list/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/list/../../layouts/flex/lv_flex.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/menu/lv_menu.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/menu/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/msgbox/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/meter/lv_meter.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/meter/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/spinbox/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/spinner/lv_spinner.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/spinner/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/tabview/lv_tabview.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/tabview/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/tileview/lv_tileview.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/tileview/../../../core/lv_obj.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\core\lv_obj.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/win/lv_win.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/win/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/colorwheel/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/led/lv_led.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/led/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/imgbtn/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/span/lv_span.h \
- .pio/libdeps/ESP-LCD/lvgl/src/extra/widgets/span/../../../lvgl.h \
+ e:\git\esp32_7inches_fail\.pio\libdeps\esp-lcd\lvgl\src\lvgl.h \
  src/lvgl_port_v8.h

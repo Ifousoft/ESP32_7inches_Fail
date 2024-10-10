@@ -1,0 +1,22 @@
+.pio/build/ESP-LCD/libab1/ESP32_Display_Panel/bus/ESP_PanelBus.cpp.o: \
+ .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/bus/ESP_PanelBus.cpp \
+ .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/ESP_PanelLog.h \
+ .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/ESP_Panel_Conf_Internal.h \
+ src/ESP_Panel_Conf.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/log/include/esp_log.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_rom/include/esp_rom_sys.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/reset_reasons.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/log/include/esp_log_internal.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_err.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_compiler.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_check.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_lcd/include/esp_lcd_panel_io.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_lcd/include/esp_lcd_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/hal/include/hal/lcd_types.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/soc_caps.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/mpu_caps.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/soc/esp32s3/include/soc/clk_tree_defs.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_common/include/esp_assert.h \
+ .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/bus/ESP_PanelBus.h \
+ .pio/libdeps/ESP-LCD/ESP32_Display_Panel/src/ESP_PanelTypes.h \
+ C:/Users/sop.son/.platformio/packages/framework-arduinoespressif32-libs/esp32s3/include/esp_lcd/include/esp_lcd_panel_rgb.h
